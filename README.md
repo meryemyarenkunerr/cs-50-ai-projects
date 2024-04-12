@@ -1,5 +1,5 @@
 # CS50's Introduction to AI with Python Week 0 
-## Project 1 -- Degrees
+## Project 1 - Degrees
 Write a program that determines how many “degrees of separation” apart two actors are. 
 
     $ python degrees.py large
