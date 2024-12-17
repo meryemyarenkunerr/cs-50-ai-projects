@@ -26,3 +26,5 @@ First, variables such as `X`, `O`, and `EMPTY` are defined. The `initial_state` 
 - `minimax(board)`: Returns the optimal move using the Minimax algorithm.
 
 Once all functions are correctly implemented, running `python runner.py` will start the game. The AI will always play optimally, and if both players play their best moves, the game will end in a tie.
+
+! Not Finished
