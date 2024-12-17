@@ -1,5 +1,5 @@
 # CS50's Introduction to AI with Python Week 0
-## Project 2 - Tic Tac Toe
+## Project 2 - Tic Tac Toe
 
 This project involves implementing an AI to play Tic-Tac-Toe optimally using the Minimax algorithm. The goal is to create a game where you can play against the AI, and the AI will make the best possible move to either win or tie the game.
 
