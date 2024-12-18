@@ -15,7 +15,7 @@ The required files for the project must be downloaded, and the `pygame` library 
 
 First, variables such as `X`, `O`, and `EMPTY` are defined. The `initial_state` function returns the starting state, and the game board is represented as a 3x3 list.
 
-## Specification
+## Specification
 
 - `player(board)`: Returns which player's turn it is. Initially, `X` starts.
 - `actions(board)`: Returns all valid moves that can be made on the board.
